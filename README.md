@@ -1,5 +1,7 @@
 # movie-review-website
 
+website course design in my third college year
+
 database is parsed from douban review
 
 function:
